@@ -1,0 +1,11 @@
+{
+  "name": "devowelingjs",
+  "version": "1.0.0",
+  "description": "Devowels a given string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ged",
+  "license": "ISC"
+}
